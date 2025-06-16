@@ -12,7 +12,7 @@ Backend hosted on Koyeb
 ## Features
 
 - Create Account and generate jsonwebtoken to authenticate routes
-- Customize all profile info and profile picture
+- Customize all profile information and profile picture, stored using Multer middleware
 - Create Post's with images and text content
 - Send follow requests to other users that they can accept or decline
 - Have a feed of your and your follwing's posts
