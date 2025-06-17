@@ -22,10 +22,16 @@ Backend hosted on Koyeb
 ## Installation
 
 1. `git clone git@github.com:GrantRoots/odinstagram.git`
-2. `cd odinstagram`
+2. `cd odinstagram/api`
 3. `npm install`
 4. `npm run seed` (Optional)
 5. `npm run dev`
+
+- Open new terminal window for the frontend
+
+6. `cd odinstagram/frontend`
+7. `npm install`
+8. `npm run dev`
 
 ## Environment Variables
 
