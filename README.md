@@ -7,7 +7,7 @@ An Instagram‑inspired social media app built with Express, Prisma (PostgreSQL)
 https://odinsta-gram.netlify.app
 
 Frontend deployed on Netlify  
-Backend hosted on Koyeb
+Backend hosted on Railway
 
 ## Features
 
